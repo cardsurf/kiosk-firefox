@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/kiosk/.config/autostart/kiosk_firefox.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Starts Firefox in kiosk mode
+Name[en_US]=kiosk_firefox.desktop
