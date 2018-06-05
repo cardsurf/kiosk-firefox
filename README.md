@@ -7,7 +7,7 @@ To make the script work the following packages needs to be installed:
 * xdotool
 
 ## Usage
-1. Create a system user `kiosk`
+1. Create a system user `kiosk`.
 2. Disable access to configuration pages of Firefox such as `about:config`.  
    Find where Firefox executable is located using `whereis firefox` command or System Monitor and then copy `policies.json` file to `distribution` folder.  
    If Firefox executable is located in `/usr/lib/firefox` directory then copy `policies.json` file to `/usr/lib/firefox/distribution/` directory.   
