@@ -1,5 +1,5 @@
 # kiosk-firefox
-A script that launches Firefox in kiosk mode for Linux Mint Cinnamon
+A script that launches Firefox in kiosk mode for Linux Mint Cinnamon 
 
 ## Requirements
 To make the script work the following packages needs to be installed:
